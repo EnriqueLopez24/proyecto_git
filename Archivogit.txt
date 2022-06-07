@@ -1,2 +1,4 @@
 Creacion de un repositorio desde comandos. 
 -Enrique Lopez
+
+2da modificacion
